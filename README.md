@@ -1,5 +1,5 @@
 # PythonCalculator
-another python calculator
+yet another python calculator
 # **Description**
 A simple python calculator to show my simple ability and to add content to my github. (please hire me :( )
 # **Requirements**
